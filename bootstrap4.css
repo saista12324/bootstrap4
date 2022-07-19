@@ -1,0 +1,25 @@
+body{
+ padding: 0;
+ margin: 0;
+}
+.card{
+    width: 300px;
+    height: 250px;
+    background: #fff;
+    border-radius: 6px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    box-shadow: 0px 1px 10px 1px #000;
+    overflow: hidden;
+    
+}
+.card-img-top{
+    margin-top:20px;
+    margin-left: 70px;
+     height: 80px;
+}
+.card-body{
+    text-align: center;
+}
